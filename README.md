@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Span-gif
-- 👀 I’m interested in bl an gl
+- 👀 I’m interested in bl and gl
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I ate glue once 
 <!---
